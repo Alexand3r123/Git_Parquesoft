@@ -1,3 +1,2 @@
-# Git_Parquesoft
-# Evidencia Parquesoft
+# Git_SENA
 # Jimmy Alexander Toro Páez
